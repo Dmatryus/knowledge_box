@@ -1,2 +1,2 @@
-# knowlage_box
+# knowledge_box
 A small formatted knowledge base.
